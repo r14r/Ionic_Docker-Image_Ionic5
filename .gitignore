@@ -1,4 +1,7 @@
-**/.env.d
+**/.autoenv.d
+**/.autoenv
+
+**/node_modules
 
 # Compiled source #
 ###################
@@ -37,8 +40,3 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-.env
-**/.env.d
-**/.env
-
